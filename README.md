@@ -53,7 +53,7 @@
   - [Web3](#Web3-1)
   - [Wargame](#Wargame-1)
   - [CTF Design 題目設計](#ctf-design-題目設計)
-  - [Uncategorized](#uncategorized-1)
+  - [Conference 研討會](#conference-研討會)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 
@@ -254,8 +254,8 @@
 - [TeamT5 威脅分析師高峰會](https://teamt5.org/tw/posts/2025-teamt5-threat-analyst-summit/)
 - [CYBERSEC 臺灣資安大會](https://cyber.ithome.com.tw/)
 - [每月資安、社群活動分享 by TDOHacker](https://blog.tdohacker.org)
-- [Taiwan Security Activity Deadlines](https://stwater20.github.io/taiwan-security-deadlines/)
 - [活動分享 by NICS 資安人蔘](https://www.facebook.com/te.nics.tw/)
+- [台灣資安課程與活動提醒倒計時器 Taiwan Security Activity Deadlines](https://stwater20.github.io/taiwan-security-deadlines/)
 - [hacker-tracker.tw 台灣資訊相關活動行事曆](https://hacker-tracker.tw)
 
 ## 獎學金
@@ -373,3 +373,7 @@
 ### CTF Design 題目設計
 
 - [CTF Design Guidelines](https://docs.google.com/document/d/1QBhColOjT8vVeyQxM1qNE-pczqeNSJiWOEiZQF2SSh8/preview)
+
+### Conference 研討會
+
+- [Security and Privacy Conference Deadlines](https://sec-deadlines.github.io)
