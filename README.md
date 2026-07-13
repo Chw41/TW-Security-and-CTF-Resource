@@ -50,6 +50,7 @@
   - [Penetration Test / Red Team](#penetration-test--red-team)
   - [Car/Automotive Hacking 汽車安全](#carautomotive-hacking-汽車安全)
   - [ICS Security 工控安全](#ics-security-工控安全)
+  - [Cloud Security 雲端安全](#cloud-security-雲端安全)
   - [Web3](#Web3-1)
   - [Wargame](#Wargame-1)
   - [CTF Design 題目設計](#ctf-design-題目設計)
@@ -361,7 +362,7 @@
 - [Fortiphyd Logic Inc](https://www.youtube.com/@fortiphyd/videos)
 - [Graphical Realism Framework for Industrial Control Simulation](https://github.com/Fortiphyd/GRFICSv2)
 
-### Cloud Security
+### Cloud Security 雲端安全
 
 - [AWSGoat](https://github.com/ine-labs/AWSGoat)
 - [CloudGoat](https://github.com/rhinosecuritylabs/cloudgoat)
